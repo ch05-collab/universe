@@ -1,0 +1,170 @@
+.universe{
+   
+   
+    background-image: url("Saturn.png");
+    background-size: cover;
+   
+}
+
+
+
+header {    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo {
+    font-family:"Orbitron",sans-serif ;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.logo img {
+    width: 32px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    
+    margin-right: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.copyright {
+    color: #fff;
+    font-size: 14px;
+}
+
+
+
+.a{position: absolute;
+    width: 250px;
+height: 220px;
+top: 98px;
+
+z-index: -1;
+
+}
+.b{position: absolute;
+    width: 130.68px;
+height: 144.85px;
+top: 134px;
+left: 733px;
+z-index: -1;
+
+
+}
+
+.c{position: absolute;
+    width: 166px;
+    height: 169.93px;
+    top: 660PX;
+    }
+
+  .d{position: absolute;
+
+    width: 280px;
+    height: 300px;
+    top: 520px;
+    left: 1200px;
+    gap: 0px;
+    opacity: 0px;
+    
+  }  
+
+  .d{
+position: absolute;
+width: 130.68px;
+height: 144.85px;
+top: 1200px;
+left: 584px;
+
+
+
+
+
+
+  }
+
+
+
+#hero {
+   display: flex;
+   justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: Hug (961px)px;
+height: Hug (594px)px;
+
+
+gap: 56px;
+opacity: 0px;
+
+}
+
+.hero-content h1 {
+    width: 961px;
+height: 378px;
+gap: 0px;
+opacity: 0px;
+color: white;
+font-family: "Orbitron",sans-serif;
+font-size: 90px;
+font-weight: 900;
+line-height: 126px;
+text-align: center;
+align-items: center;
+
+}
+
+.hero-content p {width: 961px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+   color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    
+    text-align: center;
+    align-items: center;
+        
+    
+}
+
+.learn-more {
+   
+   
+    width: Hug (246px)px;
+height: Hug (88px)px;
+padding: 28px 40px 28px 40px;
+gap: 8px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+
+    color: #fff;
+  
+    background: linear-gradient(315deg, #CD1013 1.19%, #FF0004 1.5%, #2500FF 94.46%);
+
+}
+
+.learn-more:hover {
+    background-color: #e6005c;
+}
+

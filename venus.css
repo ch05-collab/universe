@@ -1,0 +1,141 @@
+body {
+    background-image: url("Saturn.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.planet-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: right;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.planet-details {
+    width: Hug (597px)px;
+    height: Hug (624px)px;
+    top: 80px;
+    left: 98px;
+    gap: 80px;
+    opacity: 0px;
+}    
+
+.planet-details h1 {
+    width: Hug (321px)px;
+height: Hug (80px)px;
+gap: 8px;
+opacity: 0px;
+
+font-family: Orbitron;
+font-size: 67px;
+font-weight: 900;
+line-height: 80px;
+letter-spacing: -0.02em;
+text-align: left;
+
+
+}
+
+.planet-details p {
+    width: 597px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+   
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+
+    
+}
+
+.stats {
+    display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+    justify-content: center;
+    width: Fixed (597px)px;
+height: Hug (392px)px;
+gap: 40px;
+opacity: 0px;
+
+}
+
+.stat {
+    color: white;
+    width: Fixed (280px)px;
+height: Hug (150px)px;
+padding: 24px 40px 24px 40px;
+gap: 24px;
+border-radius: 16px 0px 0px 0px;
+border: 4px 0px 0px 0px;
+opacity: 0px;
+background: radial-gradient(110.92% 172.47% at 91.09% 101.78%, #430E49 0.53%, #370D44 32.06%, #170B36 89.03%, #100A33 100%);
+border: 4px solid;
+
+border-image-source: radial-gradient(110.92% 172.47% at 91.09% 101.78%, #170B36 0%, #100A33 11.98%, #370D44 46.35%, #430E49 89.06%);
+
+
+}
+
+.stat h2 {
+    width: 81px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    
+    font-family: "Orbitron",sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 24px;
+    text-align: left;
+    color: white;
+}    
+
+.stat p {
+    width: 200px;
+    height: 96px;
+    gap: 0px;
+    opacity: 0px;
+    
+    font-family: "Orbitron",sans-serif;
+    font-size: 38px;
+    font-weight: 900;
+    line-height: 48px;
+    text-align: left;
+    color: white;
+}
+
+.planet-image img {
+   
+    width: 800px;
+    height: 800px;
+    top: 71.68px;
+    right:0px;
+    opacity: 0px;
+    
+}
+
+.a{
+
+    width: 80px;
+    height: 80px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+.b{
+    width: 32.92px;
+    height: 80px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+
+}
