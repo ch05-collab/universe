@@ -1,0 +1,129 @@
+body {
+   background-image: url(Saturn.png);
+   background-size: cover;
+}
+
+
+.planet-image img {
+    width: 550.42px;
+height: 743.41px;
+top: 61.3px;
+left: 0px;
+}
+.planet-section {
+    display: flex;
+  
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+   padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
+.planet-details {
+    width: Hug (740px)px;
+    height: Hug (608px)px;
+    top: 80px;
+    left: 602px;
+    gap: 40px;
+    opacity: 0px;
+    color: white;
+    
+}
+
+.planet-details h1 {
+    width: 308px;
+height: 80px;
+gap: 0px;
+opacity: 0px;
+
+font-family: "Orbitron",sans-serif;
+font-size: 67px;
+font-weight: 900;
+
+
+text-align: left;
+color: white;
+}
+
+.planet-details p {
+    width: 740px;
+height: 72px;
+gap: 0px;
+opacity: 0px;
+
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: white;
+
+
+}
+
+.stats {
+    width: Fixed (740px)px;
+height: Hug (392px)px;
+gap: 0px;
+color: white;
+
+
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stat {
+    color: white;
+    width: Fixed (352px)px;
+height: Hug (176px)px;
+padding: 24px 40px 24px 40px;
+gap: 24px;
+border-radius: 16px 0px 0px 0px;
+border: 4px 0px 0px 0px;
+opacity: 0px;
+background: radial-gradient(110.92% 172.47% at 91.09% 101.78%, #430E49 0.53%, #370D44 32.06%, #170B36 89.03%, #100A33 100%);
+border: 4px solid;
+
+border-image-source: radial-gradient(110.92% 172.47% at 91.09% 101.78%, #170B36 0%, #100A33 11.98%, #370D44 46.35%, #430E49 89.06%);
+
+
+}
+
+.stat h2 {
+    width: 81px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+
+font-family: "Orbitron",sans-serif;
+font-size: 16px;
+font-weight: 900;
+line-height: 24px;
+text-align: left;
+color: white;
+
+}
+
+.stat p {
+    width: 200px;
+height: 96px;
+gap: 0px;
+opacity: 0px;
+
+font-family: "Orbitron",sans-serif;
+font-size: 38px;
+font-weight: 900;
+line-height: 48px;
+text-align: left;
+color: white;
+}
